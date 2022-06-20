@@ -1,0 +1,143 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 6.25rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Cormorant Infant', serif;
+  color: #00FFC6;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#00FFC6;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  margin-bottom: 2rem;
+}
+.h2-title {
+  font-size: 2.5rem;
+  color: #00FFC6;
+}
+
+
+.container-top {
+  background-color: #247881;
+  padding-top: 5%;
+  position: relative;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 170px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.skill {
+  margin-left: 0;
+}
+
+.img-test {
+  width: 10%;
+}
+
+.github {
+  width: 20%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.games {
+  width: 20%;
+  float: right;
+}
+
+.html-css {
+  width: 20%;
+  float: left;
+  margin-right: 1rem;
+}
+
+.contact-me {
+  background-color: #66BFBF;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 5rem;
+  padding: 1rem;
+}
+
+.profileimg {
+  margin-top: 5rem;
+}
+
+.hr-1 {
+  border-style: dotted;
+  border-width: 0.5rem 0 0 0;
+  width: 5%;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+  color: gray;
+}
+
+.hr-2 {
+  border-style: dotted;
+  border-width: 0.5rem 0 0 0;
+  width: 5%;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+  color: gray;
+}
+
+.bottom-p {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 5rem;
+  color: #40514E
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.direitos {
+font-family: 'Montserrat', sans-serif;
+font-size: 0.75rem;
+  color: #EAF6F6
+}
+
+.p-text {
+  color: #40514E
+}
+
+.footer-link {
+  margin-right: 2rem;
+}
